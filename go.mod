@@ -1,4 +1,4 @@
-module github.com/eqkez0r/OsExitLinter.git
+module github.com/eqkez0r/OsExitLinter
 
 go 1.22.1
 
