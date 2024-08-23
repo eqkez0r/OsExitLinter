@@ -1,4 +1,4 @@
-module os_exit_checker
+module github.com/eqkez0r/OsExitLinter.git
 
 go 1.22.1
 
